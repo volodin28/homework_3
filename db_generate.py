@@ -1,3 +1,5 @@
+# Run this file to create fake database in case you don't have one
+
 import sqlite3
 
 from faker import Faker
